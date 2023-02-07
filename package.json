@@ -1,0 +1,25 @@
+{
+  "name": "mtc_project_back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsmaGhars/mtc_project_back.git"
+  },
+  "author": "asma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsmaGhars/mtc_project_back/issues"
+  },
+  "homepage": "https://github.com/AsmaGhars/mtc_project_back#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.0"
+  }
+}
