@@ -156,5 +156,3 @@ app.put("/formations/:id", (req, res) => {
 
 // make app importable 
 module.exports = app;
-
-
